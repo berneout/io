@@ -1,6 +1,5 @@
 Those giving the included public license share the
 expectation, customary in the software industry, that
-contributions submitted to them are licensed to the
-public on the same terms, unless the contributor says
-very specifically that other terms apply to specific
-contributions when they are made.
+changes submitted to them are licensed to the public on the
+same terms, unless the contributor says very specifically
+that other terms apply to specific changes when submitted.
